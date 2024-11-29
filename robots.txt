@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /fix.krsz.site/
+Disallow: /snab.krsz.site/
+Disallow: /pto.krsz.site/
