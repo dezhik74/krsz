@@ -1,4 +1,5 @@
 User-agent: *
-Disallow: /fix.krsz.site/
-Disallow: /snab.krsz.site/
-Disallow: /pto.krsz.site/
+Disallow: /fix.kr-sz.ru/
+Disallow: /snab.kr-sz.ru/
+Disallow: /pto.kr-sz.ru/
+Disallow: /peresort.kr-sz.ru/
